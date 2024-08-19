@@ -26,7 +26,6 @@ Operate with the highest level of integrity and ethical standards in all busines
 
 - 📫 How to reach me:
 -     CodeCraftConsult@outlook.com
--     (505) 617-5696
 
 - ⚡ Fun fact: The first computer programmer was Ada Lovelace, who wrote an algorithm for Charles Babbage's early mechanical general-purpose computer, the Analytical Engine, in the mid-19th century. Her work is considered the first computer program!
 
